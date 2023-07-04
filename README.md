@@ -11,7 +11,8 @@ Data Source: ONU Sustainability of Countries Development | [Kaggle](https://www.
 Data License: Public Domain | Creative Commons — CC0 1.0 Universal
 
 Analysis (SQL & R)
-* Found here: 
+* Found here: USA_sustainability_SQL.sql
+* Found here: USA_sustainability_simple_linear_regression.R
 
 Visualization
 * Found here: https://public.tableau.com/views/USAEmissions/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
