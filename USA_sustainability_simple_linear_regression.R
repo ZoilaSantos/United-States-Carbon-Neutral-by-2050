@@ -33,3 +33,6 @@ total_ghg_emissions_mmtco2_2030_goal <- (-58.42*2021 + 124409.42) - ((-58.42*202
 total_ghg_emissions_mmtco2_2050_goal <- 1000
 
 usa_ghg_emissions_with_goal <- rbind(usa_ghg_emissions_2019, c(2030,total_ghg_emissions_mmtco2_2030_goal), c(2050,total_ghg_emissions_mmtco2_2050_goal))
+
+usa_ghg_emissions_with_actual <- rbind(usa_ghg_emissions_2019, c(2020,5981), c(2021,6340.2))
+
