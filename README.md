@@ -19,6 +19,7 @@ Visualization
 
 Key Findings
 * 
+* 
 
 What can we do with this information?
 1. 
