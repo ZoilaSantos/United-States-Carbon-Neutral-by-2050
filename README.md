@@ -16,15 +16,3 @@ Analysis (SQL & R)
 
 Visualization
 * Found here: https://public.tableau.com/views/USAEmissions/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
-
-Key Findings
-* 
-* 
-
-What can we do with this information?
-1. 
-2. 
-
-
-
-
